@@ -1,0 +1,11 @@
+{
+    "name": "vendor/spides-home-stdudy",
+    "description": "Description of project SpidesHomeStdudy.",
+    "authors": [
+        {
+            "name": "wagner",
+            "email": "wagner@dextak.com.br"
+        }
+    ],
+    "require": {}
+}
